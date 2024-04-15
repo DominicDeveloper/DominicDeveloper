@@ -1,4 +1,4 @@
-Hi, I'm 23 years old. Asadbek Azimov, I'am an Android Developer and penteration tester. 
+Hi, I'm 23 years old. Asadbek Azimov, Im an Android Developer and penteration tester. 
 I know Java and Kotlin but I use Kotlin sometimes Java. Also I know CyberSecurty and Graphic Design. 
 Skills
 Kotlin
